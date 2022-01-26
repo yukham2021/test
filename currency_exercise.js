@@ -101,7 +101,13 @@ if(value=="myanmar"){
 })
 })
 
+<<<<<<< HEAD
 console.log("hello from my pc")
+=======
+console.log("hello")
+
+
+>>>>>>> 28c4594218ce451f0e046a81743a67a075fd73c2
 
 
 
