@@ -101,6 +101,8 @@ if(value=="myanmar"){
 })
 })
 
+console.log("hello")
+
 
 
 
